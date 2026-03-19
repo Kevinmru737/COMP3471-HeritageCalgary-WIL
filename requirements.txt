@@ -54,3 +54,4 @@ tzdata==2025.3
 wcwidth==0.2.14
 xgboost
 sentence_transformers
+streamlit
