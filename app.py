@@ -63,7 +63,7 @@ def load_model():
 results = load_data()
 model = load_model()
 
-st.title("Calgary Heritage Building Designator")
+st.title("Calgary Heritage Designation Machine Learning Experiment")
 
 df = pd.read_csv("trimmed-data-1.csv")
 
