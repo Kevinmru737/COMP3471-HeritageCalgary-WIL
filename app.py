@@ -79,7 +79,7 @@ print(resource_types)
 
 
 with tab1:
-    st.subheader("Predicted likelihood of designation based on similarity to previous designations")
+    st.subheader("Predicted Likelihood of Designation Based on Similarity to Previous Designations")
     
     col1, col2, col3 = st.columns([2, 1, 2])
     with col2:
